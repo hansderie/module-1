@@ -12,3 +12,4 @@ console.log(getal/4);
 
 process.exit()
 
+
